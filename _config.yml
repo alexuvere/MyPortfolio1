@@ -1,0 +1,11 @@
+# basic options I can say whatever here 
+title: Alex Uvere
+author: A Work of Technical Art
+email: alexuvere@gmail.com
+description: A Work of Technical Art 
+twitter_username: alexuvere
+github_username:  alexuvere
+
+# Build settings
+markdown: kramdown
+theme: minima
